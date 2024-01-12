@@ -20,7 +20,7 @@
 <br/>  
 
 
-## My Skill Set  
+### My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -39,7 +39,7 @@
 <br/>  
 
 
-## Connect with me  
+### Connect with me  
 <a href="https://github.com/TimmHa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
